@@ -72,29 +72,4 @@ flowchart TD
     H -- Yes --> B
     H -- No --> I[End]
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
-
-Fork the repository.
-
-Create your feature branch:
-
-git checkout -b feature/your-feature-name
-
-Commit your changes:
-
-git commit -m 'Add some feature'
-
-Push to the branch:
-
-git push origin feature/your-feature-name
-
-Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize this `README.md` file as needed for your specific project details, such as adding any dependencies or additional setup instructions.
 
